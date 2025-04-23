@@ -1,8 +1,12 @@
 This is the first file created after readme
 This is the second line of file
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is the third line of file
 This is the fourth line of file
 =======
 This line is only present in feature branch
 >>>>>>> de49217 (Add a line for branch)
+=======
+This line is only present in feature branch
+>>>>>>> origin/feature
